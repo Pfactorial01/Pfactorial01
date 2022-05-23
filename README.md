@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pfactorial01
 - 👀 I’m a backend web developer
-- 🌱 My stack is Python/Django 
+- 🌱 My stack is Python/Django, Javascript, CSS
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me adeoyeadebayo18@gmail.com
 
