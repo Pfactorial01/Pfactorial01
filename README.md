@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pfactorial01
 - 👀 I’m a fullstack web developer
-- 🌱 My stack is Python/Django, Javascript/React, CSS, HTML
+- 🌱 My stack is Python/Django/Flask, Javascript/React, CSS, HTML
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me adeoyeadebayo18@gmail.com
 
