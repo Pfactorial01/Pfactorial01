@@ -20,7 +20,7 @@
 
 ### Statistics
 
-[![Olawale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pfactorial01&count_private=true&show_icons=true&theme=monokai&borde_radius=50)](https://github.com/anuraghazra/github-readme-stats)
+[![Adebayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pfactorial01&count_private=true&show_icons=true&theme=monokai&borde_radius=50)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pfactorial01&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
