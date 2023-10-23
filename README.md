@@ -1,6 +1,5 @@
 # Hello I'm Adebayo Adeoye
 
-- I'm a backend developer with 2 year experience.
 - 📫 How to reach me: [Email](mailto:adeoyeadebayo18@gmail.com)
 
 ### Languages, Frameworks, Libraries and Tools
