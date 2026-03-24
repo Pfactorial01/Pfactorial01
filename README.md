@@ -2,6 +2,15 @@
 
 - 📫 How to reach me: [Email](mailto:adeoyeadebayo18@gmail.com)
 
+## About Me
+
+I'm a passionate developer specializing in **GPU computing** and **high-performance optimization**. My expertise spans CUDA, parallel processing, and advanced graphics applications. I create efficient, scalable solutions that leverage the power of GPUs to achieve significant performance improvements.
+
+### Featured Projects
+- **[LumenStereo](https://github.com/Pfactorial01/LumenStereo)** - Stereo vision and 3D graphics in C++
+- **[gpu_image_processing](https://github.com/Pfactorial01/gpu_image_processing)** - High-performance image processing with CUDA acceleration
+- **[cuda-raytracer](https://github.com/Pfactorial01/cuda-raytracer)** - GPU-accelerated ray tracing achieving 17x speedup
+
 ### Languages, Frameworks, Libraries and Tools
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <br>
@@ -22,4 +31,5 @@
 <!---
 Pfactorial01/Pfactorial01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---
+
