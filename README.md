@@ -1,46 +1,40 @@
-# Hello I'm Adebayo Adeoye
+# Hey, I'm Adebayo Adeoye
 
-📫 How to reach me: [Email](mailto:adeoyeadebayo18@gmail.com)
+I build **GPU/HPC systems** and **fullstack products with a backend-first focus**.
 
-## About Me
-I'm a passionate developer specializing in **GPU computing** and **high-performance optimization**. My expertise spans CUDA, parallel processing, and advanced graphics applications. I create efficient, scalable solutions that leverage the power of GPUs to achieve significant performance improvements.
+- **GPU/HPC:** CUDA/C++, performance tuning, parallel algorithms, and graphics/vision workloads
+- **Backend/Distributed Systems:** high-throughput APIs, queues/streams, databases, caching, and observability
+- **Fullstack:** I ship complete products, but most of my depth is in backend architecture and performance
 
-With 4 years of professional experience, I also have a proven track record in **fullstack web and mobile development**, taking products from ideation to deployment and building scalable, high-concurrency systems using modern stacks.
+📫 Reach me: [adeoyeadebayo18@gmail.com](mailto:adeoyeadebayo18@gmail.com)
 
-### Featured Projects
-- **[LumenStereo](https://github.com/Pfactorial01/LumenStereo)** - GPU-accelerated stereo vision and 3D graphics in C++ with CUDA optimization
-- **[gpu_image_processing](https://github.com/Pfactorial01/gpu_image_processing)** - High-performance image processing with CUDA acceleration
-- **[cuda-raytracer](https://github.com/Pfactorial01/cuda-raytracer)** - GPU-accelerated ray tracing achieving 17x speedup
+## What I'm building
 
-## Expertise
+### GPU / High-Performance Projects
+- **[LumenStereo](https://github.com/Pfactorial01/LumenStereo)**  
+  Real-time stereo depth estimation in C++/CUDA.
+- **[gpu_image_processing](https://github.com/Pfactorial01/gpu_image_processing)**  
+  CUDA-accelerated image processing with a web UI for real-time filter comparison and performance analysis.
+- **[cuda-raytracer](https://github.com/Pfactorial01/cuda-raytracer)**  
+  CUDA ray tracer with optimization passes that reached ~17x speedup.
 
-### GPU & High-Performance Computing
-GPU optimization with CUDA and C++, GPU-accelerated machine learning with PyTorch, llama.cpp, vLLM, and vector databases (PGVector). Specialized in achieving significant performance improvements through parallel processing and advanced graphics applications.
+### Backend-Focused Fullstack Projects
+- **[ApexStream](https://github.com/Pfactorial01/ApexStream)**  
+  High-frequency telemetry pipeline: NATS JetStream -> Go ingest/processor -> TimescaleDB + Redis, with Prometheus/Grafana.
+- **[velocis](https://github.com/Pfactorial01/velocis)**  
+  High-throughput ledger API in Go with ACID transfers, optimistic locking, optional Redis caching, and `/metrics` instrumentation.
 
-### Fullstack Web & Mobile Development
-**SaaS & E-Commerce:** Architecting complex platforms with Next.js, Node.js, and PostgreSQL.
+### Applied ML Project
+- **[ball_gpt](https://github.com/Pfactorial01/ball_gpt)**  
+  Decoder-only GPT training and data-pipeline project using Python/PyTorch.
 
-**Advanced Data Engineering:** Building robust scraping and normalization pipelines for real-time data APIs (Property Data, ESRI, etc.).
+## Core Stack
 
-**Mobile Solutions:** Developing cross-platform applications using React Native.
-
-**Reliability:** Every project includes automated testing and rigorous bug-fixing workflows to ensure 99.9% uptime.
-
-### Languages, Frameworks, Libraries and Tools
-
-**AI/GPU:** CUDA, C++, PyTorch, llama.cpp, vLLM, HuggingFace, Vector DBs (PGVector)
-
-**Languages:** TypeScript, JavaScript, Python, C++, SQL
-
-**Frontend:** Next.js, React, React Native, Tailwind CSS
-
-**Backend:** Node.js, FastAPI, Django, Express, Prisma ORM
-
-**Cloud/DevOps:** Vercel, AWS, Supabase, Docker, Linux Server Mgmt
+- **GPU/HPC:** CUDA, C++, CMake, performance profiling/optimization
+- **Backend:** Go, Python, Node.js, PostgreSQL/TimescaleDB, Redis, NATS JetStream
+- **Infra/Observability:** Docker, Linux, Prometheus, Grafana
+- **Frontend:** React/Next.js for product interfaces where needed
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pfactorial01&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-Pfactorial01/Pfactorial01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Pfactorial01/Pfactorial01 is the special profile repository. -->
