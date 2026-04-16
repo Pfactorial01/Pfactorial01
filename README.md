@@ -32,5 +32,3 @@ My pinned work spans **AI video orchestration** (Sheets → LLM → TTS, images,
 - **X (Twitter):** [@P_factorial01](https://twitter.com/P_factorial01)
 
 ---
-
-<sub>README synthesized from the six pinned repositories on this profile.</sub>
