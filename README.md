@@ -8,25 +8,35 @@ I am a full-stack developer and automation engineer. I ship AI systems that run 
 
 **Dental SaaS:** React, Vite, Supabase. Consult record, transcription, Claude analysis, SMS and iMessage sequences, scheduling, analytics, MFA. Expo companion with push notifications.
 
-**Job discovery and application tailoring:** Go API, pgvector matching, Redis workers, OpenAI, React app, resume and cover PDFs on object storage.
+**PrismApply:** [https://prismapply.com/](https://prismapply.com/) · [repo](https://github.com/Pfactorial01/PrismApply)  
+Job discovery and application tailoring. Go API, pgvector matching, Redis workers, OpenAI, React app, resume and cover PDFs on object storage.
 
 **Life insurance client portal:** Next.js. OTP auth, document upload, webcam, e-signature, Paystack. Expo companion for the same product.
 
 **General insurance portals:** Three Next.js apps (customer, agents, admin). Motor quotes, product catalog, Paystack, NIN verification, JWT sessions.
 
-**Conference platform:** Registration, Paystack and Stripe checkout, QR tickets, abstracts, admin 2FA, email, object storage.
+**PAGA Congress 2026:** [https://www.pagaconference.com/](https://www.pagaconference.com/)  
+Conference platform: registration, Paystack and Stripe checkout, QR tickets, abstracts, admin 2FA, email, object storage.
 
-**Real-estate admin and API:** FastAPI. Listings, verification queues, Stripe, messaging.
+**AiRE:** [https://admin.airebrokers.com/](https://admin.airebrokers.com/)  
+FastAPI admin and API for real-estate ops: listings, verification queues, Stripe, messaging.
 
-**SEC 10-K RAG chat:** TypeScript monorepo. Express, MongoDB, Qdrant, FastEmbed, Redis cache, OpenAI answers with citations.
+**Vault10K:** [repo](https://github.com/Pfactorial01/Vault10K)  
+SEC 10-K ingest and RAG chat. TypeScript monorepo: Express, MongoDB, Qdrant, FastEmbed, Redis cache, OpenAI answers with citations.
 
 **Lead scoring API:** FastAPI lead ingest, LLM scoring, outreach generation, Redis cache, Postgres, Docker.
 
-**AI video pipeline:** Google Sheet row to finished MP4 with n8n and OpenAI. Structured scripts and scenes, TTS, image and video APIs, render. Operators stay in the sheet.
+**AI video pipeline:** [repo](https://github.com/Pfactorial01/AI_Video_Automation_Pipeline)  
+Google Sheet row to finished MP4 with n8n and OpenAI. Structured scripts and scenes, TTS, image and video APIs, render. Operators stay in the sheet.
 
-**Short-form video feed:** Express, Prisma, Postgres, Redis, Mux, React.
+**VibeFlow:** [repo](https://github.com/Pfactorial01/VibeFlow)  
+Short-form video feed: Express, Prisma, Postgres, Redis, Mux, React.
 
-**Financial ledger API:** Go. ACID transfers, optimistic locking, Prometheus, load-tested.
+**Velocis:** [repo](https://github.com/Pfactorial01/velocis)  
+Go ledger API: ACID transfers, optimistic locking, Prometheus, load-tested.
+
+**ApexStream:** [repo](https://github.com/Pfactorial01/ApexStream)  
+High-frequency telemetry: NATS JetStream, Go ingest/processor, TimescaleDB, Redis, Prometheus/Grafana.
 
 ## Stack
 
